@@ -1,0 +1,15 @@
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\bin\Debug\net8.0\CSharpTicTacToe.exe
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\bin\Debug\net8.0\CSharpTicTacToe.deps.json
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\bin\Debug\net8.0\CSharpTicTacToe.runtimeconfig.json
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\bin\Debug\net8.0\CSharpTicTacToe.dll
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\bin\Debug\net8.0\CSharpTicTacToe.pdb
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\obj\Debug\net8.0\CSharpTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\obj\Debug\net8.0\CSharpTicTacToe.AssemblyInfoInputs.cache
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\obj\Debug\net8.0\CSharpTicTacToe.AssemblyInfo.cs
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\obj\Debug\net8.0\CSharpTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\obj\Debug\net8.0\CSharpTicTacToe.sourcelink.json
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\obj\Debug\net8.0\CSharpTicTacToe.dll
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\obj\Debug\net8.0\refint\CSharpTicTacToe.dll
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\obj\Debug\net8.0\CSharpTicTacToe.pdb
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\obj\Debug\net8.0\CSharpTicTacToe.genruntimeconfig.cache
+C:\Users\leona.RAFAELLINOTE\Documents\Github\CSharpTicTacToe\obj\Debug\net8.0\ref\CSharpTicTacToe.dll
