@@ -75,6 +75,7 @@ bool isEndGame()
         }
         else if (roundNumber == 9)
         {
+            printGameBoard();
             showTie();
             return true;
         };
@@ -92,16 +93,6 @@ bool isAnyWinner()
     bool winCol3 = slots[2] == slots[5] && slots[5] == slots[8] && slots[8] != ' ';
     bool winDia1 = slots[0] == slots[4] && slots[4] == slots[8] && slots[8] != ' ';
     bool winDia2 = slots[2] == slots[4] && slots[4] == slots[6] && slots[6] != ' ';
-
-    //Console.WriteLine("Win 1:" + winLine1);
-    //Console.WriteLine("Win 2:" + winLine2);
-    //Console.WriteLine("Win 3:" + winLine3);
-    //Console.WriteLine($"  slot6:{slots[6]}  slot7:{slots[7]}  slot8:{slots[8]}");
-    //Console.WriteLine("Win 4:" + winCol1);
-    //Console.WriteLine("Win 5:" + winCol2);
-    //Console.WriteLine("Win 6:" + winCol3);
-    //Console.WriteLine("Win 7:" + winDia1);
-    //Console.WriteLine("Win 8:" + winDia2);
 
     // Set winner
     if (winLine1 || winCol1 || winDia1) winner = slots[0];
