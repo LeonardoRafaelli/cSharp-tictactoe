@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpTicTacToe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b42b08648042f707801e95ade1b76af1f0a5cea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16021e5f32a8faf1354bce3e6d364836904621db")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpTicTacToe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpTicTacToe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
